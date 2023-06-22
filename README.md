@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @dev-alt
-- 👀 I’m interested in working on projects together 
+- 👋 Hi, I’m Andrew @dev-alt
 - 🌱 I’m currently learning C#, Javascript, Python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on fun projects together!~
+
 
 <!---
 dev-alt/dev-alt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
