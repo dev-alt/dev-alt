@@ -1,3 +1,4 @@
+Hi there! I'm Andrew, a passionate software developer with a love for building projects. I'm always eager to learn and explore new technologies. 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/andrew-logan-681b53231) 
