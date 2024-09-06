@@ -7,13 +7,9 @@ Hi there! I'm Andrew, a passionate software developer with a love for building p
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=dev-alt&theme=transparent&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=dev-alt&theme=transparent&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-alt&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=dev-alt&theme=gruvbox_light&no-frame=true&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=dev-alt&limit=5&theme=transparent&combine_all_yearly_contributions=true)
