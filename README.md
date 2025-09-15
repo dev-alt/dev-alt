@@ -1,11 +1,11 @@
-# 👋 Hey there, I'm Andrew!
-
 <div align="center">
 
-  **Full-Stack Developer**
+# 👋 Hey there, I'm Andrew!
 
-  [![GitHub followers](https://img.shields.io/github/followers/dev-alt?style=social)](https://github.com/dev-alt)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/yourprofile)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Full-Stack+Developer+%F0%9F%9A%80;Security+Enthusiast+%F0%9F%94%90;Problem+Solver+%F0%9F%92%A1;Always+Learning+%F0%9F%8C%B1&font=Fira%20Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&width=500&height=60)](https://github.com/dev-alt)
+
+[![GitHub followers](https://img.shields.io/github/followers/dev-alt?style=social)](https://github.com/dev-alt)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/yourprofile)
 
 </div>
 
@@ -78,19 +78,39 @@ I'm passionate about crafting robust applications that solve real problems. From
 
 <div align="center">
 
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dev-alt&theme=dark&hide_border=true&background=0D1117&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dev-alt&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&count_private=true)
 
-  <br>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dev-alt&theme=dark&hide_border=true&background=0D1117&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF)
 
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-alt&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-alt&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&langs_count=8)
 
 </div>
 
-## 🏆 Achievements
+## 📊 Weekly Development Breakdown
+
+<!--START_SECTION:waka-->
+```text
+Python       8 hrs 32 mins   ████████████░░░░░░░░░░░░░   48.2%
+Go           4 hrs 15 mins   ██████░░░░░░░░░░░░░░░░░░░   24.1%
+TypeScript   2 hrs 45 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.6%
+JavaScript   1 hr 28 mins    ██░░░░░░░░░░░░░░░░░░░░░░░    8.3%
+C++          41 mins         █░░░░░░░░░░░░░░░░░░░░░░░░    3.8%
+```
+<!--END_SECTION:waka-->
+
+## 🏆 GitHub Achievements
 
 <div align="center">
 
-  ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=dev-alt&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&row=1)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=dev-alt&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&row=1)
+
+</div>
+
+## 🐍 Contribution Graph
+
+<div align="center">
+
+![Snake animation](https://github.com/dev-alt/dev-alt/blob/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
@@ -102,3 +122,11 @@ I'm passionate about crafting robust applications that solve real problems. From
 📫 **Reach me:** Always happy to discuss tech, security, or potential collaborations!
 
 ---
+
+<div align="center">
+
+**Thanks for visiting my profile!** ⭐️
+
+![Profile Views](https://komarev.com/ghpvc/?username=dev-alt&color=58A6FF&style=flat-square&label=Profile+Views)
+
+</div>
