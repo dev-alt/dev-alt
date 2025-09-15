@@ -1,20 +1,104 @@
-# 💫 About Me:
-Hi there! I'm Andrew, a passionate software developer with a love for building projects. I'm always eager to learn and explore new technologies.
+# 👋 Hey there, I'm Andrew!
 
+<div align="center">
 
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=plastic&logo=csharp&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=plastic&logo=graphql&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=plastic&logo=.net&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=plastic&logo=WordPress&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=plastic&logo=next.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=plastic&logo=npm&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=plastic&logo=nginx&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=plastic&logo=apache&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=plastic&logo=microsoftazure&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=plastic&logo=php&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=dev-alt&theme=transparent&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-alt&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+  **Full-Stack Developer**
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=dev-alt&theme=gruvbox_light&no-frame=true&no-bg=false&margin-w=4)
+  [![GitHub followers](https://img.shields.io/github/followers/dev-alt?style=social)](https://github.com/dev-alt)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/yourprofile)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=dev-alt&limit=5&theme=transparent&combine_all_yearly_contributions=true)
+</div>
+
+## 🚀 What I Do
+
+I'm passionate about crafting robust applications that solve real problems. From cybersecurity tools to full-stack web platforms, I love diving deep into both the technical challenges and user experience.
+
+**Currently working on:** Advanced log analysis systems and secure web applications
+**Always learning:** New frameworks, security practices, and system optimization
+
+## 🛠️ Tech Stack
+
+<details>
+<summary><b>🔧 Languages & Frameworks</b></summary>
+<br>
+
+**Backend:**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+**Frontend:**
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+
+**Database & DevOps:**
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+
+</details>
+
+## 🎯 Featured Projects
+
+### 🔐 [GitGuard](https://github.com/dev-alt/GitGuard)
+**Security Scanner • Python • GUI Application**
+- Desktop tool for scanning GitHub repos and commit history
+- Detects API keys, passwords, tokens, and sensitive data
+- Built with Python and modern GUI frameworks
+
+### 🌐 [Pin-N-Grab Platform](https://github.com/dev-alt/Pin-N-Grab-React)
+**Full-Stack Job Marketplace • React • Express.js**
+- Complete job listing and management platform
+- Real-time messaging and user communication
+- Modern React frontend with robust Express.js backend
+
+### 📊 [Smart Log Analyser](https://github.com/dev-alt/smart-log-analyser)
+**System Administration • Go • Real-time Analytics**
+- Nginx log analysis with statistical insights
+- Real-time monitoring with configurable alerts
+- Built for performance with Go
+
+### 🎓 [LingoQuiz Platform](https://github.com/dev-alt/Lingo-Quiz-)
+**Education • TypeScript • GraphQL**
+- Interactive language learning with personalized experiences
+- Modern stack: Next.js, GraphQL, NextAuth
+- Community challenges and progress tracking
+
+### 📝 [LaTeX Editor](https://github.com/dev-alt/LaTeXEditor)
+**Desktop Application • C++23 • Qt6**
+- Modern, cross-platform LaTeX editor
+- Real-time preview and syntax highlighting
+- Integrated compilation and advanced features
+
+## 📈 GitHub Analytics
+
+<div align="center">
+
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dev-alt&theme=dark&hide_border=true&background=0D1117&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF)
+
+  <br>
+
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-alt&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF)
+
+</div>
+
+## 🏆 Achievements
+
+<div align="center">
+
+  ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=dev-alt&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&row=1)
+
+</div>
+
+## 💡 Current Focus
+
+🔍 **Exploring:** Advanced security patterns and microservices architecture
+🌱 **Learning:** Cloud-native development and container orchestration
+🤝 **Open to:** Collaborating on interesting open-source projects
+📫 **Reach me:** Always happy to discuss tech, security, or potential collaborations!
 
 ---
-[![](https://visitcount.itsvg.in/api?id=dev-alt&icon=0&color=7)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
