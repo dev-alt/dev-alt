@@ -5,7 +5,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Full-Stack+Developer+%F0%9F%9A%80;Security+Enthusiast+%F0%9F%94%90;Problem+Solver+%F0%9F%92%A1;Always+Learning+%F0%9F%8C%B1&font=Fira%20Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&width=500&height=60)](https://github.com/dev-alt)
 
 [![GitHub followers](https://img.shields.io/github/followers/dev-alt?style=social)](https://github.com/dev-alt)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/yourprofile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/andrew-logan-681b53231/)
 
 </div>
 
