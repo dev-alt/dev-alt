@@ -46,12 +46,6 @@ I'm passionate about crafting robust applications that solve real problems. From
 - Detects API keys, passwords, tokens, and sensitive data
 - Built with Python and modern GUI frameworks
 
-### 🌐 [Pin-N-Grab Platform](https://github.com/dev-alt/Pin-N-Grab-React)
-**Full-Stack Job Marketplace • React • Express.js**
-- Complete job listing and management platform
-- Real-time messaging and user communication
-- Modern React frontend with robust Express.js backend
-
 ### 📊 [Smart Log Analyser](https://github.com/dev-alt/smart-log-analyser)
 **System Administration • Go • Real-time Analytics**
 - Nginx log analysis with statistical insights
