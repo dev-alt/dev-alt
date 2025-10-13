@@ -40,11 +40,10 @@ I'm passionate about crafting robust applications that solve real problems. From
 
 ## 🎯 Featured Projects
 
-### 🔐 [GitGuard](https://github.com/dev-alt/GitGuard)
+### 🔐 [Invoice-generator-go](https://github.com/dev-alt/invoice-generator-go)
 **Security Scanner • Python • GUI Application**
-- Desktop tool for scanning GitHub repos and commit history
-- Detects API keys, passwords, tokens, and sensitive data
-- Built with Python and modern GUI frameworks
+- API service for invoice generation
+- Built with Go
 
 ### 📊 [Smart Log Analyser](https://github.com/dev-alt/smart-log-analyser)
 **System Administration • Go • Real-time Analytics**
