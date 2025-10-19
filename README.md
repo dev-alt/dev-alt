@@ -41,7 +41,7 @@ I'm passionate about crafting robust applications that solve real problems. From
 ## 🎯 Featured Projects
 
 ### 🔐 [Invoice-generator-go](https://github.com/dev-alt/invoice-generator-go)
-**Security Scanner • Python • GUI Application**
+**Invoice Generator • GO • GUI Application**
 - API service for invoice generation
 - Built with Go
 
